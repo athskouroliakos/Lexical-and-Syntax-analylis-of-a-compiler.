@@ -1,5 +1,5 @@
 # Lexical-and-Syntax-analylis-of-a-compiler.
-Lexical and Syntax analylis of a  compiler.
+
 
 
 Flex-Bison-Compiler
