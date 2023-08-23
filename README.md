@@ -27,4 +27,4 @@ B. The syntactic analyzer should:
 
 3.Enter the program IDs in the PS, if they have not been entered by the word analyzer. It should also manage the scope of the program in the PS, according to the description of the language you are translating.
 
-4. For the purposes of this exercise to print in an appropriate way the content of the PS at the end of each scope.
+4.For the purposes of this exercise to print in an appropriate way the content of the PS at the end of each scope.
